@@ -4,7 +4,4 @@ The aim of this module was to modify a Turtlebot3 to navigate a maze, unlock som
 
 Credits to Dr. Yen's repository from which all the 'r2' code is from: https://github.com/shihchengyen/r2auto_nav
 
-Helpful ros2 commands:
 
-topic echo
-- battery_state
